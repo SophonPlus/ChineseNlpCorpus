@@ -12,7 +12,7 @@
 | simplifyweibo_4_moods | 36 万多条，带情感标注 新浪微博，包含 4 种情感，<br /> 其中喜悦约 20 万条，愤怒、厌恶、低落各约 5 万条 | [点击查看](./datasets/simplifyweibo_4_moods/intro.ipynb) |
 | dmsc_v2 | 28 部电影，超 70 万 用户，超 200 万条 评分/评论 数据 | [点击查看](./datasets/dmsc_v2/intro.ipynb) |
 | yf_dianping | 24 万家餐馆，54 万用户，440 万条评论/评分数据 | [点击查看](./datasets/yf_dianping/intro.ipynb) |
-
+| yf_amazon | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [点击查看](./datasets/yf_amazon/intro.ipynb) |
 
 ## 中文命名实体识别
 
@@ -27,3 +27,4 @@
 | ez_douban | 5 万多部电影（3 万多有电影名称，2 万多没有电影名称），2.8 万 用户，280 万条评分数据 | [点击查看](./datasets/ez_douban/intro.ipynb) |
 | dmsc_v2 | 28 部电影，超 70 万 用户，超 200 万条 评分/评论 数据 | [点击查看](./datasets/dmsc_v2/intro.ipynb) |
 | yf_dianping | 24 万家餐馆，54 万用户，440 万条评论/评分数据 | [点击查看](./datasets/yf_dianping/intro.ipynb) |
+| yf_amazon | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [点击查看](./datasets/yf_amazon/intro.ipynb) |
