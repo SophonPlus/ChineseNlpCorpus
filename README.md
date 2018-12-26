@@ -28,3 +28,12 @@
 | dmsc_v2 | 28 部电影，超 70 万 用户，超 200 万条 评分/评论 数据 | [点击查看](./datasets/dmsc_v2/intro.ipynb) |
 | yf_dianping | 24 万家餐馆，54 万用户，440 万条评论/评分数据 | [点击查看](./datasets/yf_dianping/intro.ipynb) |
 | yf_amazon | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [点击查看](./datasets/yf_amazon/intro.ipynb) |
+
+## 加入我们
+
+- 愿景：以人工智能产品和技术服务 30 亿人
+- 团队：极客精神、技术驱动，做有温度的技术，让世界更美好
+- 产品：面向细分行业领域的自动营销机器人，客户需求旺盛，产品前景无限
+- 职位：[自然语言人机交互应用研究](./docs/recruit/researcher.md)、[自然语言处理算法工程师](./docs/recruit/engineer.md)、[系统架构师（人工智能产品）](./docs/recruit/architect.md)
+
+![](./docs/images/recruit/recruit_banner.png)
