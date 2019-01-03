@@ -46,5 +46,6 @@
 
 【联系方式】
 
+- 蔡先生, jinhua@kuaishang.com.cn
 - 蓝先生, lanzl@kuaishang.com.cn, 180-3025-1206
 - 叶女士, yeyp@kuaishang.com.cn, 0592-5380356
