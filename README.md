@@ -29,6 +29,14 @@
 | yf_dianping | 24 万家餐馆，54 万用户，440 万条评论/评分数据 | [点击查看](./datasets/yf_dianping/intro.ipynb) |
 | yf_amazon | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [点击查看](./datasets/yf_amazon/intro.ipynb) |
 
+## faq问答系统
+
+| 数据集 | 数据概览 | 下载地址 |
+| ----- | -------- | ------- |
+| 保险知道 | 8000多条保险行业问答数据 | [点击查看](./datasets/baoxianzhidao/intro.ipynb) |
+
+
+
 ## 加入我们
 
 - 愿景：以人工智能产品和技术服务 30 亿人
