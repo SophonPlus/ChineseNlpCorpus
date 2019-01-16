@@ -29,11 +29,17 @@
 | yf_dianping | 24 万家餐馆，54 万用户，440 万条评论/评分数据 | [点击查看](./datasets/yf_dianping/intro.ipynb) |
 | yf_amazon | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [点击查看](./datasets/yf_amazon/intro.ipynb) |
 
-## FAQ问答系统 文本分类
+## FAQ 问答系统
 
 | 数据集 | 数据概览 | 下载地址 |
 | ----- | -------- | ------- |
-| 百度知道 | 8000多条保险，4万条农行，58.8万条保险，20.3万条联通，15.6万条电信，3.6万条法律，77万条金融行业问答数据 | [点击查看](https://pan.baidu.com/s/1xQ3g_6gX_A6RhW1Qdxs7iA) |
+| 保险知道 | 8000 多条保险行业问答数据 | [点击查看](https://pan.baidu.com/s/1ZEu8CF6cc76rEwmM7NMzQg) |
+| 安徽电信知道 | 15.6 万条电信问答数据 | [点击查看](https://pan.baidu.com/s/1nrg5SRU3Xy1VN85dd85-vg) |
+| 金融知道 | 77 万条金融行业问答数据 | [点击查看](https://pan.baidu.com/s/1z1Rnnk-ubRSvzDu4UvLlIw) |
+| 法律知道 | 3.6 万条法律问答数据 | [点击查看](https://pan.baidu.com/s/18Lwq16VBo6wBD_qLb3i33g) |
+| 联通知道 | 20.3 万条联通问答数据 | [点击查看](https://pan.baidu.com/s/1oYi9SfbXpnvreJYGV837Nw) |
+| 农行知道 | 4 万条农业银行问答数据 | [点击查看](https://pan.baidu.com/s/1n-jT9SKkt6cwI_PjCd7i_g) |
+| 保险知道 | 58.8 万条保险行业问答数据 | [点击查看](https://pan.baidu.com/s/1SR5d20DPpU7F1h_OVf64GA) |
 
 
 
