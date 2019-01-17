@@ -29,6 +29,20 @@
 | yf_dianping | 24 万家餐馆，54 万用户，440 万条评论/评分数据 | [点击查看](./datasets/yf_dianping/intro.ipynb) |
 | yf_amazon | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [点击查看](./datasets/yf_amazon/intro.ipynb) |
 
+## FAQ 问答系统
+
+| 数据集 | 数据概览 | 下载地址 |
+| ----- | -------- | ------- |
+| 保险知道 | 8000 多条保险行业问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](./datasets/baoxianzhidao/intro.ipynb) |
+| 安徽电信知道 | 15.6 万条电信问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](./datasets/anhuidianxinzhidao/intro.ipynb) |
+| 金融知道 | 77 万条金融行业问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](./datasets/financezhidao/intro.ipynb) |
+| 法律知道 | 3.6 万条法律问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](./datasets/lawzhidao/intro.ipynb) |
+| 联通知道 | 20.3 万条联通问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](./datasets/liantongzhidao/intro.ipynb) |
+| 农行知道 | 4 万条农业银行问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](./datasets/nonghangzhidao/intro.ipynb) |
+| 保险知道 | 58.8 万条保险行业问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](./datasets/baoxianzhidao/intro.ipynb) |
+
+
+
 ## 加入我们
 
 - 愿景：以人工智能产品和技术服务 30 亿人
