@@ -33,13 +33,13 @@
 
 | 数据集 | 数据概览 | 下载地址 |
 | ----- | -------- | ------- |
-| 保险知道 | 8000 多条保险行业问答数据 | [点击查看](https://pan.baidu.com/s/1ZEu8CF6cc76rEwmM7NMzQg) |
-| 安徽电信知道 | 15.6 万条电信问答数据 | [点击查看](https://pan.baidu.com/s/1nrg5SRU3Xy1VN85dd85-vg) |
-| 金融知道 | 77 万条金融行业问答数据 | [点击查看](https://pan.baidu.com/s/1z1Rnnk-ubRSvzDu4UvLlIw) |
-| 法律知道 | 3.6 万条法律问答数据 | [点击查看](https://pan.baidu.com/s/18Lwq16VBo6wBD_qLb3i33g) |
-| 联通知道 | 20.3 万条联通问答数据 | [点击查看](https://pan.baidu.com/s/1oYi9SfbXpnvreJYGV837Nw) |
-| 农行知道 | 4 万条农业银行问答数据 | [点击查看](https://pan.baidu.com/s/1n-jT9SKkt6cwI_PjCd7i_g) |
-| 保险知道 | 58.8 万条保险行业问答数据 | [点击查看](https://pan.baidu.com/s/1SR5d20DPpU7F1h_OVf64GA) |
+| 保险知道 | 8000 多条保险行业问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](https://pan.baidu.com/s/1ZEu8CF6cc76rEwmM7NMzQg) |
+| 安徽电信知道 | 15.6 万条电信问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](https://pan.baidu.com/s/1nrg5SRU3Xy1VN85dd85-vg) |
+| 金融知道 | 77 万条金融行业问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](https://pan.baidu.com/s/1z1Rnnk-ubRSvzDu4UvLlIw) |
+| 法律知道 | 3.6 万条法律问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](https://pan.baidu.com/s/18Lwq16VBo6wBD_qLb3i33g) |
+| 联通知道 | 20.3 万条联通问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](https://pan.baidu.com/s/1oYi9SfbXpnvreJYGV837Nw) |
+| 农行知道 | 4 万条农业银行问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](https://pan.baidu.com/s/1n-jT9SKkt6cwI_PjCd7i_g) |
+| 保险知道 | 58.8 万条保险行业问答数据，包括用户提问、网友回答、最佳回答 | [点击查看](https://pan.baidu.com/s/1SR5d20DPpU7F1h_OVf64GA) |
 
 
 
